@@ -41,6 +41,6 @@ Launch the game and control the spaceship using the left and right arrow keys. Y
 - The game ends when your hit points reach zero.
 
 ## Play the deployed version
-[Play Game](https://replit.com/@sivani-l-r/Stellar-Survivor-A-PyGame)
+[Play Game]([https://replit.com/@sivani-l-r/Stellar-Survivor-A-PyGame](https://replit.com/@sivani-l-r/Stellar-Survivor-A-PyGame?v=1)https://replit.com/@sivani-l-r/Stellar-Survivor-A-PyGame?v=1)
 
 
