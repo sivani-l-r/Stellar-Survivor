@@ -12,9 +12,7 @@ Welcome to Stellar Survivor! This is a simple game created using Pygame, where y
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Gameplay](#gameplay)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
