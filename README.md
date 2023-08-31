@@ -1,5 +1,9 @@
 # Stellar Survivor
 
+## Game Play
+
+![Youtube](https://youtu.be/y7pCN0p6uGs?si=v8jg0j-eL03gg-f5)
+
 ![Game Screenshot](Images/screenshot.png)
 ![Game Screenshot](Images/ss-2.png)
 
